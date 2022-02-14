@@ -1,0 +1,33 @@
+html {
+   font-family: 'Work Sans', sans-serif;
+}
+
+.cal {
+   position: relative;
+   width: 364px;
+   height: 582px;
+   background: #17171C;
+   margin: 0 auto;
+}
+
+.screen {
+   position: static;
+   width: 324px;
+   height: 96px;
+   left: 0px;
+   top: 63px;
+   font-style: normal;
+   font-weight: 300;
+   font-size: 96px;
+   line-height: 96px;
+   display: flex;
+   align-items: center;
+   text-align: right;
+   color: #FFFFFF;
+   margin: 0 auto;
+}
+
+.buttons {
+   display: grid;
+
+}
