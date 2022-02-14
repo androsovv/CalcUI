@@ -44,8 +44,10 @@ html {
    font-size: 32px;
    text-align: center;
    font-weight: 400;
-   border: none;
-
+   border: none; 
+}
+.calc_btn:hover {
+   background-color: #a4a7c9;
 }
 
 .c_btn {
